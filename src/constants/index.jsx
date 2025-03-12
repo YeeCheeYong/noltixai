@@ -9,6 +9,7 @@ export const features = [
       icon: "/images/magictouch.svg",
       title: "Watch the demo",
     },
+    href:"https://www.youtube.com/playlist?list=PL2uCJCXWtRiYs53y-oBLSJmLBoO_l38bi",
   },
   {
     id: "1",
@@ -19,6 +20,7 @@ export const features = [
       icon: "/images/docs.svg",
       title: "Read the docs",
     },
+    href:"https://medium.com/@info_68993/automate-your-personal-or-team-workflows-with-multi-ai-agent-e4668c5e920d",
   },
 ];
 
